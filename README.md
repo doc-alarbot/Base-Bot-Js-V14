@@ -3,10 +3,10 @@ Base bot en discord.js v14
 de AlarBot 
 ## Introduction
 Ce code est un exemple de bot optimisé et organisé utilisant Discord.js v14, que en prefix
-## Before use
+### Before use
 - Install Node.js (>16)
 - Install Visual Studio Code
-## Commands Terminal Visual Studio Code
+### Commands Terminal Visual Studio Code
 - node .
 - npm install discord.js (install le node_module)
 ## Installation
@@ -38,7 +38,7 @@ npm install
 
 }
 ```
-##Créer des dossiers
+### Créer des dossiers
 - Cree un dossier Event et maitre le ready.js et message.js
 - Cree un dossier Commande et maitre Embed1.js et Embed2.js et message-cmd.js
 ## Support
